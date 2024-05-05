@@ -1,7 +1,7 @@
 {
   "name": "nodejsexample",
   "version": "1.0.0",
-  "description": "Josh's Super Empty Description",
+  "description": "There is no way to describe this.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
