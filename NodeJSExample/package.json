@@ -4,8 +4,11 @@
   "description": "There is no way to describe this.",
   "main": "index.js",
   "scripts": {
-    "hello": "node helloworld.js"
+    "test": "jest"
   },
   "author": "Josh Ausborne",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
