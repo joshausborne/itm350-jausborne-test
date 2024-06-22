@@ -3,7 +3,7 @@ const config = {
   verbose: true,
 };
 
-module.exports = config;
+/* module.exports = config; */
 
 module.exports = {
     coverageThreshold: {
