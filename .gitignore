@@ -1,2 +1,4 @@
 .DS_Store
 NodeJSExample/coverage
+node_modules
+package-lock.json
