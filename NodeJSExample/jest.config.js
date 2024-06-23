@@ -7,8 +7,8 @@ const config = {
 
 module.exports = {
     coverageThreshold: {
-      './src/*.js': {
-        lines: 80,
+      global: {
+        lines: 100,
       },
     },
   };
